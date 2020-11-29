@@ -21,6 +21,20 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
